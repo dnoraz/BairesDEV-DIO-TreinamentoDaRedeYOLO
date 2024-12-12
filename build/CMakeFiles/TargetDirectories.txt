@@ -1,0 +1,8 @@
+C:/DIO/YOLOv3/darknet/build/CMakeFiles/dark.dir
+C:/DIO/YOLOv3/darknet/build/CMakeFiles/uselib.dir
+C:/DIO/YOLOv3/darknet/build/CMakeFiles/darknet.dir
+C:/DIO/YOLOv3/darknet/build/CMakeFiles/kmeansiou.dir
+C:/DIO/YOLOv3/darknet/build/CMakeFiles/PACKAGE.dir
+C:/DIO/YOLOv3/darknet/build/CMakeFiles/INSTALL.dir
+C:/DIO/YOLOv3/darknet/build/CMakeFiles/ALL_BUILD.dir
+C:/DIO/YOLOv3/darknet/build/CMakeFiles/ZERO_CHECK.dir

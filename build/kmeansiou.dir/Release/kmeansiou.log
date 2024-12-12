@@ -1,0 +1,3 @@
+﻿  Building Custom Rule C:/DIO/YOLOv3/darknet/CMakeLists.txt
+  kmeansiou.c
+  kmeansiou.vcxproj -> C:\DIO\YOLOv3\darknet\build\Release\kmeansiou.exe

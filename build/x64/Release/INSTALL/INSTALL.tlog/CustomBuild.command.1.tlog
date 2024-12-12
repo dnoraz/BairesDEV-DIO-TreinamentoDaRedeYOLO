@@ -1,0 +1,10 @@
+^C:\DIO\YOLOV3\DARKNET\BUILD\CMAKEFILES\1B68D34E8EA5CA34EA67C33B64924D02\INSTALL_FORCE.RULE
+setlocal
+cd .
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
