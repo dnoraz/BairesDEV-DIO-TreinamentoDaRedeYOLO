@@ -11,6 +11,7 @@ cuDNN = https://developer.nvidia.com/cudnn-downloads?target_os=Windows&target_ar
 opencv = https://github.com/opencv/opencv/releases/download/4.10.0/opencv-4.10.0-windows.exe
 
 Imagens baixadas = https://storage.googleapis.com/openimages/web/index.html
+
 Classes utilizadas para treinar a rede yolov3 são: Oven, Rose e Bench. Cada uma delas escolhidas aleatóriamente pelo botão "Random class" do open images dataset v7.
 As imagens utilizadas para treino estão na pasta "data/obj" junto com as annotations necessárias para a yolov3 ler a imagem.
 
